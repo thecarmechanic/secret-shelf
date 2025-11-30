@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Indie+Flower&family=Joan&family=Permanent+Marker);
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Indie+Flower&family=Joan&family=Permanent+Marker");
 /* CSS files add styling rules to your content */
 
 body {
@@ -24,7 +24,7 @@ h1 {
 
 p {
   width: 350px;
-  font-family:'Joon';
+  font-family:'Joan';
   text-align: center;
 }
 
@@ -37,9 +37,9 @@ button {
   border-radius: 3px;
   padding: 8px;
   font-size: 100%;
-  font-family:'Joon', serif;
+  font-family:'Joan', serif;
   font-weight: bold;
   cursor: pointer;
   background-color: black;
-  color: #fff;
+  color: #ffffff;
 }
